@@ -14,7 +14,13 @@ let Array = [10,20,30];
 // }
 
 // do while loop
-i=0;
-do{
-    console.log(Array[i]);
-}while(i<Array.length);
+// i=0;
+// do{
+//     console.log(Array[i]);
+// }while(i<Array.length);
+
+
+var data;// create to store data
+for(i in Array){
+    data += console.log(Array[1]);
+}
