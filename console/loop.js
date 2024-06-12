@@ -20,7 +20,8 @@ let Array = [10,20,30];
 // }while(i<Array.length);
 
 
-var data;// create to store data
-for(i in Array){
-    data += console.log(Array[1]);
-}
+// var data;// create to store data
+// for(i in Array){
+//     data += console.log(Array[1]);
+// }
+Array.map(e)
